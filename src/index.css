@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.categoria{
+    display: flex;
+    border-radius: 1000px;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
